@@ -9,6 +9,9 @@ No Compilers ☒
 No Libraries ☒
 No Boilerplate ☒
 
+If you are interested in this course you can access it through this link: 
+[#JavaScript30](https://javascript30.com/)
+
 
 ## Challenges completed
 
