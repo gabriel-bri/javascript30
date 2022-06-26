@@ -18,7 +18,7 @@ If you are interested in this course you can access it through this link:
 - [x] 01 - JavaScript Drum Kit/
 - [x] 02 - JS and CSS Clock/
 - [x] 03 - CSS Variables/
-- [ ] 04 - Array Cardio Day 1/
+- [x] 04 - Array Cardio Day 1/
 - [ ] 05 - Flex Panel Gallery/
 - [ ] 06 - Type Ahead/
 - [ ] 07 - Array Cardio Day 2/
